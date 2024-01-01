@@ -1,0 +1,9 @@
+6LqxN33M19,Anakarnina,William Shakespeare,40,false,true,NULL,NULL,NULL
+9mKKxVAwr4,Golestan,Sa'di,50,true,true,knifer,2023/1/31,2023/2/1
+FAA8277q28,Oliver Twist,Charles Dickens,30,false,true,shagi,2023/1/31,2023/1/31
+GZ37eNa4WH,Samfooni Mordegan,Abbas Maroofi,30,true,true,NULL,NULL,NULL
+J1l9gm8kxu,Shahnameh,Ferdosi,30,true,true,knifer,2023/2/1,2023/2/1
+Yo8KZtJI5I,Harry Potter,J.k Rolling,20,true,false,shagi,2023/2/10,2023/2/10
+nfsJ9dv273,Boostan,Saadi,25,false,true,knifer,2023/1/31,2023/2/1
+n56y14xS7G,Divan E Shams,Molana,30,true,false,knifer,2023/2/10,2023/2/1
+nZo8OU233J,Divane Hafez,Hafez,30,false,true,NULL,NULL,NULL

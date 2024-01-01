@@ -1,0 +1,11 @@
+abbas,12345678,abbas,heydari,1382,babol,09113234354,2023/1/31,false,golden,regular,5,1 week,0,NULL,not banned
+soltaneGhalbHa,berij123,mohammad,rafii,1380,tehran,09112232213,2023/1/31,false,regular,5,1 week,0,NULL,0,banned
+shagi,scooby34,sasan,khani,1382,chales,091113131422,2023/1/31,false,golden,20,1 month,0,NULL,0,not banned
+safshekan,hajiiiii,reza,jani,1382,neka,0913124343332,2023/1/31,false,golden,20,1 month,0,NULL,0,not banned
+sephepde,dochrkhe,ali,goli,1383,babol,09111212342,2023/1/31,false,regular,5,1 week,1,NULL,0,not banned
+knifer,gungun86,mostafa,sedaghat,1382,amol,09352452,2023/1/31,false,regular,5,1 week,1,NULL,0,not banned
+mmd,12345678,mmd,mamadi,1383,babol,0913322,2023/1/31,false,regular,5,1 week,0,NULL,0,not banned
+tearsInMyEyes,JVF3m4Fo,nader,naderi,1382,gonbad,09228782266,2023/1/31,false,regular,5,1 week,0,NULL,0,not banned
+bamishi,petpettt,morad,homeyri,1383,ghaemshahr,09111136572,2023/2/1,false,regular,5,1 week,0,NULL,0,not banned
+HoneyBee,salem123,arsalan,namdar,1382,ghaemshahr,09115765429,2023/2/1,false,regular,5,1 week,0,NULL,0,not banned
+mshklmashk,ArS03aln,arsalan,mmdzadeh,1382,sari,09901178983,2023/2/1,false,golden,20,1 month,1,NULL,0,not banned
